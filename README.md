@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to Hui Zhuan's Github profile!
 
-<!--
-**huizhuansam/huizhuansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me 👉
+You can call me Hui Zhuan (pronounced h-wei zh-wan).\
+I also go by my handle @huizhuansam on mainstream social media platforms.
 
-Here are some ideas to get you started:
+#### What I do ⚙️
+I'm an undergraduate student at the [National University of Singapore](https://www.nus.edu.sg/), majoring in Computer Science.\
+I'm hooked on solving programming challenges!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My interests 
+I like reading and analysing code, spotting bugs, and suggesting improvements!
+
+### Connect with me!
+<!-- work in progress -->
