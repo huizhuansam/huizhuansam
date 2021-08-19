@@ -26,4 +26,5 @@ I like reading and analysing code, spotting bugs, and suggesting improvements!
 <br />
 <br />
 
-[![Hui Zhuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huizhuansam)](https://github.com/anuraghazra/github-readme-stats)
+[![Hui Zhuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huizhuansam&show_icons=true&theme=onedark)
+)](https://github.com/anuraghazra/github-readme-stats)
