@@ -4,10 +4,10 @@
 You can call me Hui Zhuan (pronounced h-wei zh-wan). I also go by my handle @huizhuansam on social media.
 
 ## What I do ⚙️
-I'm a recent graduate from the [National University of Singapore](https://www.nus.edu.sg/)'s Bachelor of Computing (Honours) Computer Science programme. I love to put software together with different technologies, be it CLI tools or web apps, and figuring out what works well and what doesn't in the process.
+I'm a software engineer with a love for writing server-side applications.
 
-Currently seeking employment in a software engineering role in Singapore. Reach out to me on [LinkedIn](https://www.linkedin.com/in/hui-zhuan-siew/) for a chat!
+Previous stints at [data4life](https://www.data4life.care) and [Binance](https://www.binance.com); currently building cool stuff at [Breeze](https://breeze.cash).
 
 ![Hui Zhuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huizhuansam&show_icons=true&theme=onedark)
 
-*Github readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)*
+*GitHub readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)*
